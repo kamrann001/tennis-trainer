@@ -32,8 +32,10 @@ In addition to live motion detection, the app features a **Training Module**, wh
 
 ## Screenshots
 
-### Home Screen
+### Home Screen:
+
 ![Home Screen](assets/home_screen.png)
 
-### Training Mode
-![Training Mode](assets/training_modeule.png)
+### Training Mode:
+
+![Training Mode](assets/training_module.png)
