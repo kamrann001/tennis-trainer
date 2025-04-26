@@ -1,5 +1,4 @@
-# A Flutter Group Project
-
+# A Tennis Training application using Flutter, Adruino and TinyML
 ## Instructions to run the code successfully:
 1. Opening Arduino_Code.ino in Arduino application and run.
 (Note: model.h file must be in the same folder (called Arduino_Code) with Arduino_Code.ino)
